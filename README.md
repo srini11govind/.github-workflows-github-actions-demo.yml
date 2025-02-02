@@ -24,5 +24,5 @@ jobs:
   test:
     steps:
       - name: 23f1002634@ds.study.iitm.ac.in
-        run: echo "Hello, world!"
+        run: echo "23f1002634@ds.study.iitm.ac.in"
     
