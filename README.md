@@ -18,7 +18,7 @@ jobs:
       - name: 23f1002634@ds.atudy.iitm.ac.in
         run: |
           ls ${{ github.workspace }}
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+      - run: echo "🍏 This job's status is ${{ job.status }}. 23f1002634@ds.study.iitm.ac.in"
 
 jobs:
   test:
