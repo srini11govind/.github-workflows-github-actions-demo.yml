@@ -23,6 +23,6 @@ jobs:
 jobs:
   test:
     steps:
-      - name: 23f1002634@ds.study.iitm.ac.in
+      - name
         run: echo "23f1002634@ds.study.iitm.ac.in"
     
